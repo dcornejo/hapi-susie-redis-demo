@@ -5,7 +5,7 @@
 //
 
 // default interval (in milliseconds)
-let interval = 60000;
+let interval = 1000;
 let debugMe = false;
 
 let getopt = require('node-getopt');

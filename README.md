@@ -1,4 +1,4 @@
-# Happy2
+# Hapi.js, Susie, and Redis Demo
 
 An amateur attempt to use Hapi.js and susie to stream messages from redis 
 to a client using Server Sent Events.
